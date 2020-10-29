@@ -1,0 +1,18 @@
+.message{
+    display: flex;
+    align-items: center;
+    color: white;
+    margin: 15px;
+}
+.message_infor{
+    margin-left:20px;
+
+}
+.message_time{
+    color: gray;
+    margin-left: 20px;
+    font-size: xx-small;
+}
+.message_infor>h4,p{
+    font-size: small;
+}
